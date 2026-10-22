@@ -1,0 +1,39 @@
+{
+  "id": "temari",
+  "name": "Temari",
+  "character": "Temari",
+  "emoji": "🍃",
+  "group": "Sand & Other Villages",
+  "order": 2,
+  "promptUser": "temari",
+  "promptHost": "suna-embassy",
+  "macAccent": "yellow",
+  "motif": "fan",
+  "colors": {
+    "bg": "#1d1b18",
+    "surface": "#2b2925",
+    "fg": "#f0ece1",
+    "muted": "#98958f",
+    "accent": "#d9b44a",
+    "accent2": "#7a6ad8",
+    "accent3": "#e8e4d8",
+    "ansi": [
+      "#2b2925",
+      "#df605e",
+      "#95c574",
+      "#e4bf75",
+      "#7ca2d5",
+      "#c78fce",
+      "#6ebfb9",
+      "#dad6cc",
+      "#67645f",
+      "#e68381",
+      "#acd293",
+      "#eacd93",
+      "#99b6de",
+      "#d3a8d9",
+      "#8ecdc8",
+      "#f8f6f0"
+    ]
+  }
+}

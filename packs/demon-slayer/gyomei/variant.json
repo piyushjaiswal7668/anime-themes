@@ -1,0 +1,39 @@
+{
+  "id": "gyomei",
+  "name": "Gyomei",
+  "character": "Gyomei Himejima",
+  "emoji": "📿",
+  "group": "Hashira",
+  "order": 10,
+  "promptUser": "gyomei",
+  "promptHost": "stone-hashira",
+  "macAccent": "orange",
+  "motif": "ripples",
+  "colors": {
+    "bg": "#1a1a1b",
+    "surface": "#282629",
+    "fg": "#eeebe3",
+    "muted": "#939196",
+    "accent": "#b09a7a",
+    "accent2": "#d0b060",
+    "accent3": "#7a9a7a",
+    "ansi": [
+      "#282629",
+      "#da5d64",
+      "#90c27a",
+      "#dfbb7b",
+      "#779fdb",
+      "#c28cd4",
+      "#69bbbf",
+      "#d7d4d0",
+      "#636165",
+      "#e28186",
+      "#a8cf97",
+      "#e6ca98",
+      "#95b4e3",
+      "#cfa5dd",
+      "#8acacd",
+      "#f6f5f1"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sai",
+  "name": "Sai",
+  "character": "Sai",
+  "emoji": "🎨",
+  "group": "Team 7",
+  "order": 5,
+  "promptUser": "sai",
+  "promptHost": "root",
+  "macAccent": "red",
+  "motif": "scroll",
+  "colors": {
+    "bg": "#1d1318",
+    "surface": "#2a1e25",
+    "fg": "#efe6e1",
+    "muted": "#97858f",
+    "accent": "#d0414b",
+    "accent2": "#e8e8ec",
+    "accent3": "#5b6b8c",
+    "ansi": [
+      "#2a1e25",
+      "#de535e",
+      "#94b774",
+      "#e2b175",
+      "#7b95d5",
+      "#c681ce",
+      "#6db1b9",
+      "#d9cecc",
+      "#66575f",
+      "#e57981",
+      "#acc793",
+      "#e8c293",
+      "#98acde",
+      "#d39dd9",
+      "#8dc2c8",
+      "#f7f2f0"
+    ]
+  }
+}

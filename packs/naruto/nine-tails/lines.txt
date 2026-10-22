@@ -1,0 +1,8 @@
+Failing tests are just training. Run them again.
+Nobody believed in this code either. Ship it anyway.
+One more commit. Then one more after that.
+Read the error twice, then go full power.
+You don't need anyone's permission to get better at this.
+Today's bug is tomorrow's story.
+Keep your promise to your future self: write the test.
+A thousand small commits beat one perfect one.

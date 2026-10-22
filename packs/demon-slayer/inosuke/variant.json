@@ -1,0 +1,39 @@
+{
+  "id": "inosuke",
+  "name": "Inosuke",
+  "character": "Inosuke Hashibira",
+  "emoji": "🐗",
+  "group": "Tanjiro & Friends",
+  "order": 4,
+  "promptUser": "inosuke",
+  "promptHost": "mountain-den",
+  "macAccent": "blue",
+  "motif": "burst",
+  "colors": {
+    "bg": "#151921",
+    "surface": "#212530",
+    "fg": "#eaeae7",
+    "muted": "#898fa0",
+    "accent": "#6a8ac8",
+    "accent2": "#d9b48a",
+    "accent3": "#4aa06a",
+    "ansi": [
+      "#212530",
+      "#d25b6d",
+      "#88c083",
+      "#d6ba84",
+      "#6e9de4",
+      "#ba8add",
+      "#60bac8",
+      "#d2d3d5",
+      "#5a5f6e",
+      "#dc7f8d",
+      "#a2ce9e",
+      "#dfc99f",
+      "#8eb3ea",
+      "#c9a4e4",
+      "#83c9d4",
+      "#f4f4f3"
+    ]
+  }
+}

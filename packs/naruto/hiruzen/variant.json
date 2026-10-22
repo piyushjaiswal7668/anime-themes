@@ -1,0 +1,39 @@
+{
+  "id": "hiruzen",
+  "name": "Hiruzen",
+  "character": "Hiruzen Sarutobi",
+  "emoji": "🐒",
+  "group": "Sensei & Kage",
+  "order": 11,
+  "promptUser": "hiruzen",
+  "promptHost": "third-hokage",
+  "macAccent": "orange",
+  "motif": "scroll",
+  "colors": {
+    "bg": "#1d1816",
+    "surface": "#2b2422",
+    "fg": "#f0eae0",
+    "muted": "#988e8a",
+    "accent": "#d9822b",
+    "accent2": "#c94a3a",
+    "accent3": "#e8e2d0",
+    "ansi": [
+      "#2b2422",
+      "#df5a5b",
+      "#95bf71",
+      "#e4b971",
+      "#7c9cd1",
+      "#c789ca",
+      "#6eb9b5",
+      "#dad3ca",
+      "#675e5b",
+      "#e67e7f",
+      "#accd90",
+      "#eac890",
+      "#99b2db",
+      "#d3a3d6",
+      "#8ec8c5",
+      "#f8f4f0"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "enmu",
+  "name": "Enmu",
+  "character": "Enmu",
+  "emoji": "😴",
+  "group": "Demons",
+  "order": 7,
+  "promptUser": "enmu",
+  "promptHost": "dream-train",
+  "macAccent": "purple",
+  "motif": "eye",
+  "colors": {
+    "bg": "#181622",
+    "surface": "#242231",
+    "fg": "#ece8e8",
+    "muted": "#8d8ba3",
+    "accent": "#8a6ad8",
+    "accent2": "#4ab0c0",
+    "accent3": "#e8d0f0",
+    "ansi": [
+      "#242231",
+      "#d6586f",
+      "#8cbc85",
+      "#dab686",
+      "#729ae6",
+      "#be86df",
+      "#64b6ca",
+      "#d4d1d7",
+      "#5e5c70",
+      "#df7d8f",
+      "#a5cba0",
+      "#e2c6a1",
+      "#91b0ec",
+      "#cca1e6",
+      "#86c6d6",
+      "#f6f4f4"
+    ]
+  }
+}

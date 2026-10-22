@@ -1,0 +1,39 @@
+{
+  "id": "kokushibo",
+  "name": "Kokushibo",
+  "character": "Kokushibo",
+  "emoji": "🌕",
+  "group": "Demons",
+  "order": 2,
+  "promptUser": "kokushibo",
+  "promptHost": "upper-moon-one",
+  "macAccent": "pink",
+  "motif": "crescent",
+  "colors": {
+    "bg": "#1a1319",
+    "surface": "#271e26",
+    "fg": "#ede6e2",
+    "muted": "#928491",
+    "accent": "#a83a5a",
+    "accent2": "#d8b04a",
+    "accent3": "#8a7ad0",
+    "ansi": [
+      "#271e26",
+      "#d95260",
+      "#8fb676",
+      "#deb077",
+      "#7694d7",
+      "#c280d0",
+      "#68b0bb",
+      "#d6cece",
+      "#625661",
+      "#e17883",
+      "#a8c694",
+      "#e5c195",
+      "#94ace0",
+      "#cf9cda",
+      "#89c1ca",
+      "#f6f2f0"
+    ]
+  }
+}

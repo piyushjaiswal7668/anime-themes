@@ -1,0 +1,39 @@
+{
+  "id": "choji",
+  "name": "Choji",
+  "character": "Choji Akimichi",
+  "emoji": "🍖",
+  "group": "Konoha 11",
+  "order": 4,
+  "promptUser": "choji",
+  "promptHost": "barbecue-q",
+  "macAccent": "orange",
+  "motif": "butterfly",
+  "colors": {
+    "bg": "#1e1617",
+    "surface": "#2c2223",
+    "fg": "#f0e8e0",
+    "muted": "#998a8d",
+    "accent": "#e0663a",
+    "accent2": "#e8c04a",
+    "accent3": "#8fbf6a",
+    "ansi": [
+      "#2c2223",
+      "#e0575c",
+      "#96bb72",
+      "#e4b573",
+      "#7d99d3",
+      "#c886cc",
+      "#6eb5b7",
+      "#dad0cb",
+      "#685b5d",
+      "#e77c80",
+      "#adca91",
+      "#eac592",
+      "#9aafdd",
+      "#d4a1d7",
+      "#8ec5c7",
+      "#f8f4f0"
+    ]
+  }
+}

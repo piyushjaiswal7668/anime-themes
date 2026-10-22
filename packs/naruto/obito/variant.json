@@ -1,0 +1,39 @@
+{
+  "id": "obito",
+  "name": "Obito",
+  "character": "Obito Uchiha",
+  "emoji": "🌀",
+  "group": "Uchiha",
+  "order": 2,
+  "promptUser": "obito",
+  "promptHost": "kamui-dimension",
+  "macAccent": "orange",
+  "motif": "swirl",
+  "colors": {
+    "bg": "#0e0f14",
+    "surface": "#191b24",
+    "fg": "#e8e6ef",
+    "muted": "#858aa0",
+    "accent": "#f08a24",
+    "accent2": "#9b7fd4",
+    "accent3": "#c7a6ff",
+    "ansi": [
+      "#191b24",
+      "#e0534a",
+      "#82b37a",
+      "#f0b44c",
+      "#6f8fe0",
+      "#9b7fd4",
+      "#5fb3c4",
+      "#d4d2de",
+      "#454a62",
+      "#ff7466",
+      "#a0d096",
+      "#ffcd70",
+      "#92aef8",
+      "#c7a6ff",
+      "#82cfdc",
+      "#f8f7fc"
+    ]
+  }
+}

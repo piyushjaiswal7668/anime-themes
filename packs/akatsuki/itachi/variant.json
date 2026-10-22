@@ -1,0 +1,38 @@
+{
+  "id": "itachi",
+  "name": "Itachi",
+  "character": "Itachi Uchiha",
+  "emoji": "🌙",
+  "order": 1,
+  "promptUser": "itachi",
+  "promptHost": "akatsuki-hideout",
+  "macAccent": "red",
+  "motif": "cloud",
+  "colors": {
+    "bg": "#0f0d0e",
+    "surface": "#1c1718",
+    "fg": "#efe8e6",
+    "muted": "#8e7f80",
+    "accent": "#c4202d",
+    "accent2": "#f2f2f2",
+    "accent3": "#d9a0a5",
+    "ansi": [
+      "#1c1718",
+      "#d43a3a",
+      "#8ba86a",
+      "#d9a441",
+      "#6c86b8",
+      "#b05a8c",
+      "#6aa7a3",
+      "#d8cfcd",
+      "#4a3d3f",
+      "#ff5a5a",
+      "#a6c584",
+      "#f0be5c",
+      "#8da5d6",
+      "#cc79a8",
+      "#8cc4c0",
+      "#ffffff"
+    ]
+  }
+}

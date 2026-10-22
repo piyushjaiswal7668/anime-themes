@@ -1,0 +1,20 @@
+# Build output
+.build/
+.swiftpm/
+*.xcodeproj/
+DerivedData/
+
+# macOS / editor clutter
+.DS_Store
+.vscode/
+*.swp
+
+# Half-finished downloads and tool leftovers
+*.part
+*.dryrun
+.claims/
+
+# Files the app generates inside the packs folder
+packs/.generated/
+packs/asset-report.md
+packs/wallpaper-review.html

@@ -1,0 +1,8 @@
+Think in systems, not in single files.
+A plan that spans years starts with one commit today.
+Power without control is just a bigger bug.
+Read the whole codebase. Then decide.
+Rivals make you stronger. Thank yours.
+Build the architecture first; the details will follow.
+Don't wait for the perfect moment. Create it.
+Even legends refactor.

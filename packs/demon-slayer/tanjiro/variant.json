@@ -1,0 +1,39 @@
+{
+  "id": "tanjiro",
+  "name": "Tanjiro",
+  "character": "Tanjiro Kamado",
+  "emoji": "🌊",
+  "group": "Tanjiro & Friends",
+  "order": 1,
+  "promptUser": "tanjiro",
+  "promptHost": "mt-sagiri",
+  "macAccent": "green",
+  "motif": "checks",
+  "colors": {
+    "bg": "#101513",
+    "surface": "#18211d",
+    "fg": "#ece6d6",
+    "muted": "#85928a",
+    "accent": "#2e9a72",
+    "accent2": "#e0b34f",
+    "accent3": "#e07a88",
+    "ansi": [
+      "#18211d",
+      "#c84a4a",
+      "#2e9a72",
+      "#e0b34f",
+      "#4f8fbf",
+      "#b0607e",
+      "#4fb0a3",
+      "#d6d0c0",
+      "#3c4a43",
+      "#e46a6a",
+      "#4fc596",
+      "#f2cd72",
+      "#74acd9",
+      "#ce82a0",
+      "#72cfc2",
+      "#f7f2e6"
+    ]
+  }
+}

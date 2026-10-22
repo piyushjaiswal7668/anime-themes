@@ -1,0 +1,39 @@
+{
+  "id": "minato",
+  "name": "Minato",
+  "character": "Minato Namikaze",
+  "emoji": "⚡",
+  "group": "Sensei & Kage",
+  "order": 10,
+  "promptUser": "minato",
+  "promptHost": "hokage-office",
+  "macAccent": "yellow",
+  "motif": "kunai",
+  "colors": {
+    "bg": "#1f1d18",
+    "surface": "#2d2b25",
+    "fg": "#f1ede1",
+    "muted": "#9c988f",
+    "accent": "#f2c94c",
+    "accent2": "#d04a3a",
+    "accent3": "#5a7ab8",
+    "ansi": [
+      "#2d2b25",
+      "#e2635e",
+      "#98c774",
+      "#e7c175",
+      "#7fa5d5",
+      "#ca92ce",
+      "#71c1b9",
+      "#dcd8cc",
+      "#6a675f",
+      "#e88581",
+      "#afd393",
+      "#eccf93",
+      "#9bb9de",
+      "#d6aad9",
+      "#90cfc8",
+      "#f8f6f0"
+    ]
+  }
+}

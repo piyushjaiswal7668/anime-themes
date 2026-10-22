@@ -1,0 +1,39 @@
+{
+  "id": "yoriichi",
+  "name": "Yoriichi",
+  "character": "Yoriichi Tsugikuni",
+  "emoji": "🌞",
+  "group": "Others",
+  "order": 1,
+  "promptUser": "yoriichi",
+  "promptHost": "sun-shrine",
+  "macAccent": "red",
+  "motif": "flame",
+  "colors": {
+    "bg": "#1e1617",
+    "surface": "#2d2123",
+    "fg": "#f1e8e0",
+    "muted": "#9b898d",
+    "accent": "#e8603a",
+    "accent2": "#e8c04a",
+    "accent3": "#c0392b",
+    "ansi": [
+      "#2d2123",
+      "#e1565c",
+      "#97bb72",
+      "#e5b473",
+      "#7e98d3",
+      "#c985cc",
+      "#6fb4b7",
+      "#dcd0cb",
+      "#6a5a5d",
+      "#e87b80",
+      "#aeca91",
+      "#ebc492",
+      "#9aafdd",
+      "#d5a0d7",
+      "#8fc4c7",
+      "#f8f4f0"
+    ]
+  }
+}

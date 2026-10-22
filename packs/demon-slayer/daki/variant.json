@@ -1,0 +1,39 @@
+{
+  "id": "daki",
+  "name": "Daki & Gyutaro",
+  "character": "Daki and Gyutaro",
+  "emoji": "🎀",
+  "group": "Demons",
+  "order": 5,
+  "promptUser": "daki",
+  "promptHost": "entertainment-district",
+  "macAccent": "pink",
+  "motif": "strings",
+  "colors": {
+    "bg": "#1e151c",
+    "surface": "#2c212a",
+    "fg": "#f0e8e4",
+    "muted": "#998898",
+    "accent": "#e05a8a",
+    "accent2": "#4a9a7a",
+    "accent3": "#e8c050",
+    "ansi": [
+      "#2c212a",
+      "#e05666",
+      "#96ba7c",
+      "#e4b47d",
+      "#7d98dd",
+      "#c884d6",
+      "#6eb4c1",
+      "#dad0d1",
+      "#685a66",
+      "#e77b88",
+      "#adc999",
+      "#eac49a",
+      "#9aafe4",
+      "#d49fdf",
+      "#8ec4cf",
+      "#f8f4f2"
+    ]
+  }
+}

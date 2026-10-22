@@ -1,0 +1,39 @@
+{
+  "id": "rui",
+  "name": "Rui",
+  "character": "Rui",
+  "emoji": "🧵",
+  "group": "Demons",
+  "order": 6,
+  "promptUser": "rui",
+  "promptHost": "spider-mountain",
+  "macAccent": "red",
+  "motif": "strings",
+  "colors": {
+    "bg": "#1d1217",
+    "surface": "#2a1c23",
+    "fg": "#efe5e0",
+    "muted": "#97818d",
+    "accent": "#d0283a",
+    "accent2": "#e8e8f0",
+    "accent3": "#7a8ad0",
+    "ansi": [
+      "#2a1c23",
+      "#de505c",
+      "#94b472",
+      "#e2ae73",
+      "#7b92d3",
+      "#c67ecc",
+      "#6daeb7",
+      "#d9cccb",
+      "#66545d",
+      "#e57680",
+      "#acc491",
+      "#e8c092",
+      "#98aadd",
+      "#d39ad7",
+      "#8dc0c7",
+      "#f7f2f0"
+    ]
+  }
+}

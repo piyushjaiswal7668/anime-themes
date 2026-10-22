@@ -1,0 +1,38 @@
+{
+  "id": "hidan",
+  "name": "Hidan",
+  "character": "Hidan",
+  "emoji": "🔱",
+  "order": 7,
+  "promptUser": "hidan",
+  "promptHost": "yugakure",
+  "macAccent": "red",
+  "motif": "triangle",
+  "colors": {
+    "bg": "#121214",
+    "surface": "#1e1d22",
+    "fg": "#eeeef2",
+    "muted": "#8f8e99",
+    "accent": "#d0283a",
+    "accent2": "#c9cbd6",
+    "accent3": "#a77ad8",
+    "ansi": [
+      "#1e1d22",
+      "#de505c",
+      "#94b472",
+      "#e2ae73",
+      "#7b92d3",
+      "#c67ecc",
+      "#6daeb7",
+      "#d6d6dc",
+      "#5c5b63",
+      "#e57680",
+      "#acc491",
+      "#e8c092",
+      "#98aadd",
+      "#d39ad7",
+      "#8dc0c7",
+      "#f6f6f8"
+    ]
+  }
+}

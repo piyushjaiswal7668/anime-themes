@@ -1,0 +1,39 @@
+{
+  "id": "shino",
+  "name": "Shino",
+  "character": "Shino Aburame",
+  "emoji": "🪲",
+  "group": "Konoha 11",
+  "order": 6,
+  "promptUser": "shino",
+  "promptHost": "aburame-hive",
+  "macAccent": "green",
+  "motif": "stitch",
+  "colors": {
+    "bg": "#151a1b",
+    "surface": "#212629",
+    "fg": "#eaebe3",
+    "muted": "#899195",
+    "accent": "#6a9a78",
+    "accent2": "#4a4f63",
+    "accent3": "#c9b56b",
+    "ansi": [
+      "#212629",
+      "#d25d64",
+      "#88c27a",
+      "#d6bb7b",
+      "#6e9fdb",
+      "#ba8cd4",
+      "#60bbbe",
+      "#d2d4d0",
+      "#5a6164",
+      "#dc8186",
+      "#a2cf97",
+      "#dfca98",
+      "#8eb4e3",
+      "#c9a5dd",
+      "#83cacc",
+      "#f4f5f1"
+    ]
+  }
+}

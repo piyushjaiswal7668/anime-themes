@@ -1,0 +1,86 @@
+[
+  {
+    "bundleID": "com.microsoft.VSCode",
+    "symbol": "chevron.left.forwardslash.chevron.right"
+  },
+  {
+    "bundleID": "com.google.Chrome",
+    "symbol": "globe"
+  },
+  {
+    "bundleID": "org.mozilla.firefox",
+    "symbol": "globe"
+  },
+  {
+    "bundleID": "com.brave.Browser",
+    "symbol": "globe"
+  },
+  {
+    "bundleID": "company.thebrowser.Browser",
+    "symbol": "globe"
+  },
+  {
+    "bundleID": "com.tinyspeck.slackmacgap",
+    "symbol": "bubble.left.and.bubble.right.fill"
+  },
+  {
+    "bundleID": "com.hnc.Discord",
+    "symbol": "gamecontroller.fill"
+  },
+  {
+    "bundleID": "com.spotify.client",
+    "symbol": "music.note"
+  },
+  {
+    "bundleID": "com.postmanlabs.mac",
+    "symbol": "paperplane.fill"
+  },
+  {
+    "bundleID": "com.google.android.studio",
+    "symbol": "iphone"
+  },
+  {
+    "bundleID": "com.docker.docker",
+    "symbol": "shippingbox.fill"
+  },
+  {
+    "bundleID": "notion.id",
+    "symbol": "doc.text.fill"
+  },
+  {
+    "bundleID": "md.obsidian",
+    "symbol": "book.closed.fill"
+  },
+  {
+    "bundleID": "ru.keepcoder.Telegram",
+    "symbol": "paperplane.circle.fill"
+  },
+  {
+    "bundleID": "us.zoom.xos",
+    "symbol": "video.fill"
+  },
+  {
+    "bundleID": "com.figma.Desktop",
+    "symbol": "pencil.and.ruler.fill"
+  },
+  {
+    "bundleID": "com.mongodb.compass",
+    "symbol": "cylinder.split.1x2.fill"
+  },
+  {
+    "bundleID": "com.googlecode.iterm2",
+    "symbol": "terminal.fill"
+  },
+  {
+    "bundleID": "com.mitchellh.ghostty",
+    "symbol": "terminal.fill"
+  },
+  {
+    "bundleID": "com.anydesk.anydeskmacos",
+    "symbol": "display.2"
+  },
+  {
+    "bundleID": "com.todesktop.230313mzl4w4u92",
+    "symbol": "sparkles"
+  }
+]

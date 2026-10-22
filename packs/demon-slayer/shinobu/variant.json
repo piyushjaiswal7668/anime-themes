@@ -1,0 +1,39 @@
+{
+  "id": "shinobu",
+  "name": "Shinobu",
+  "character": "Shinobu Kocho",
+  "emoji": "🦋",
+  "group": "Hashira",
+  "order": 3,
+  "promptUser": "shinobu",
+  "promptHost": "butterfly-mansion",
+  "macAccent": "purple",
+  "motif": "butterfly",
+  "colors": {
+    "bg": "#171427",
+    "surface": "#221d38",
+    "fg": "#efe7fb",
+    "muted": "#9a90b4",
+    "accent": "#9b6ce0",
+    "accent2": "#3fb0a8",
+    "accent3": "#e3b5f0",
+    "ansi": [
+      "#221d38",
+      "#e0607e",
+      "#7cc49a",
+      "#e2c472",
+      "#7a8cf0",
+      "#b285ec",
+      "#3fb0a8",
+      "#dcd4ea",
+      "#4c4470",
+      "#ff82a0",
+      "#9ce0b8",
+      "#f2d894",
+      "#9aa8ff",
+      "#cca6ff",
+      "#64ccc4",
+      "#faf6ff"
+    ]
+  }
+}

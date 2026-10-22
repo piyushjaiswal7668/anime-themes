@@ -1,0 +1,39 @@
+{
+  "id": "ino",
+  "name": "Ino",
+  "character": "Ino Yamanaka",
+  "emoji": "💐",
+  "group": "Konoha 11",
+  "order": 3,
+  "promptUser": "ino",
+  "promptHost": "flower-shop",
+  "macAccent": "purple",
+  "motif": "blossom",
+  "colors": {
+    "bg": "#1b1923",
+    "surface": "#282533",
+    "fg": "#eeeae9",
+    "muted": "#938fa5",
+    "accent": "#b48be6",
+    "accent2": "#f2d36b",
+    "accent3": "#7ec8a0",
+    "ansi": [
+      "#282533",
+      "#db5b71",
+      "#91c087",
+      "#dfba88",
+      "#779de8",
+      "#c38ae1",
+      "#69bacc",
+      "#d7d3d8",
+      "#635f72",
+      "#e37f90",
+      "#a9cea1",
+      "#e6c9a2",
+      "#95b3ed",
+      "#d0a4e8",
+      "#8ac9d7",
+      "#f6f4f4"
+    ]
+  }
+}

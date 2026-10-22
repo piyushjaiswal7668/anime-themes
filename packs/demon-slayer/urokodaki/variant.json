@@ -1,0 +1,39 @@
+{
+  "id": "urokodaki",
+  "name": "Urokodaki",
+  "character": "Sakonji Urokodaki",
+  "emoji": "👺",
+  "group": "Others",
+  "order": 2,
+  "promptUser": "urokodaki",
+  "promptHost": "sagiri-cabin",
+  "macAccent": "red",
+  "motif": "wave",
+  "colors": {
+    "bg": "#1d1418",
+    "surface": "#2a1f25",
+    "fg": "#efe7e1",
+    "muted": "#97868f",
+    "accent": "#d04a4a",
+    "accent2": "#4a7ac0",
+    "accent3": "#c8b080",
+    "ansi": [
+      "#2a1f25",
+      "#de545e",
+      "#94b874",
+      "#e2b275",
+      "#7b96d5",
+      "#c682ce",
+      "#6db2b9",
+      "#d9cfcc",
+      "#66585f",
+      "#e57a81",
+      "#acc893",
+      "#e8c393",
+      "#98adde",
+      "#d39ed9",
+      "#8dc3c8",
+      "#f7f3f0"
+    ]
+  }
+}

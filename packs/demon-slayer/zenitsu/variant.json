@@ -1,0 +1,39 @@
+{
+  "id": "zenitsu",
+  "name": "Zenitsu",
+  "character": "Zenitsu Agatsuma",
+  "emoji": "⚡",
+  "group": "Tanjiro & Friends",
+  "order": 3,
+  "promptUser": "zenitsu",
+  "promptHost": "thunder-dojo",
+  "macAccent": "yellow",
+  "motif": "bolt",
+  "colors": {
+    "bg": "#1c150c",
+    "surface": "#2a2014",
+    "fg": "#fff3d6",
+    "muted": "#a8946f",
+    "accent": "#f2c230",
+    "accent2": "#e07b1a",
+    "accent3": "#7fb6e6",
+    "ansi": [
+      "#2a2014",
+      "#e0583a",
+      "#9cc265",
+      "#f2c230",
+      "#6fa5e0",
+      "#d08ad0",
+      "#63c2c0",
+      "#e8dcc0",
+      "#5a4a32",
+      "#ff7a58",
+      "#b8dc84",
+      "#ffd95e",
+      "#92c1f2",
+      "#e8a8e8",
+      "#86dcda",
+      "#fffaea"
+    ]
+  }
+}

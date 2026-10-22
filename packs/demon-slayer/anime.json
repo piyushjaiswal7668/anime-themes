@@ -1,0 +1,13 @@
+{
+  "id": "demon-slayer",
+  "name": "Demon Slayer",
+  "emoji": "⚔️",
+  "series": "Demon Slayer",
+  "order": 3,
+  "groups": [
+    "Tanjiro & Friends",
+    "Hashira",
+    "Demons",
+    "Others"
+  ]
+}

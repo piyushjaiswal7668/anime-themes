@@ -1,0 +1,39 @@
+{
+  "id": "kankuro",
+  "name": "Kankuro",
+  "character": "Kankuro",
+  "emoji": "🎭",
+  "group": "Sand & Other Villages",
+  "order": 3,
+  "promptUser": "kankuro",
+  "promptHost": "puppet-workshop",
+  "macAccent": "blue",
+  "motif": "strings",
+  "colors": {
+    "bg": "#161622",
+    "surface": "#232231",
+    "fg": "#ebe8e8",
+    "muted": "#8b8ba3",
+    "accent": "#7a6ad8",
+    "accent2": "#6a6a7a",
+    "accent3": "#c9b080",
+    "ansi": [
+      "#232231",
+      "#d4586f",
+      "#8abc85",
+      "#d8b686",
+      "#709ae6",
+      "#bc86df",
+      "#62b6ca",
+      "#d3d1d7",
+      "#5c5c70",
+      "#dd7d8f",
+      "#a4cba0",
+      "#e1c6a1",
+      "#8fb0ec",
+      "#cba1e6",
+      "#85c6d6",
+      "#f5f4f4"
+    ]
+  }
+}

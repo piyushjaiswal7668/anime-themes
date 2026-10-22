@@ -1,0 +1,39 @@
+{
+  "id": "neji",
+  "name": "Neji",
+  "character": "Neji Hyuga",
+  "emoji": "🎯",
+  "group": "Konoha 11",
+  "order": 8,
+  "promptUser": "neji",
+  "promptHost": "hyuga-dojo",
+  "macAccent": "blue",
+  "motif": "eye",
+  "colors": {
+    "bg": "#1c1c23",
+    "surface": "#2a2a33",
+    "fg": "#efede9",
+    "muted": "#9697a5",
+    "accent": "#c8c2e8",
+    "accent2": "#8a7a6a",
+    "accent3": "#e8e4f2",
+    "ansi": [
+      "#2a2a33",
+      "#dd6271",
+      "#93c687",
+      "#e2c088",
+      "#7aa4e8",
+      "#c591e1",
+      "#6cc0cc",
+      "#d9d8d8",
+      "#656672",
+      "#e48590",
+      "#abd3a1",
+      "#e8cea2",
+      "#97b8ed",
+      "#d2a9e8",
+      "#8cced7",
+      "#f7f6f4"
+    ]
+  }
+}

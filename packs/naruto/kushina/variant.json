@@ -1,0 +1,39 @@
+{
+  "id": "kushina",
+  "name": "Kushina",
+  "character": "Kushina Uzumaki",
+  "emoji": "🍜",
+  "group": "Others",
+  "order": 1,
+  "promptUser": "kushina",
+  "promptHost": "uzumaki-clan",
+  "macAccent": "red",
+  "motif": "swirl",
+  "colors": {
+    "bg": "#1d1217",
+    "surface": "#2a1d23",
+    "fg": "#efe5e0",
+    "muted": "#97838d",
+    "accent": "#d0303a",
+    "accent2": "#f0a030",
+    "accent3": "#5a9a6a",
+    "ansi": [
+      "#2a1d23",
+      "#de515c",
+      "#94b572",
+      "#e2af73",
+      "#7b93d3",
+      "#c67fcc",
+      "#6dafb7",
+      "#d9cccb",
+      "#66555d",
+      "#e57780",
+      "#acc591",
+      "#e8c192",
+      "#98abdd",
+      "#d39bd7",
+      "#8dc1c7",
+      "#f7f2f0"
+    ]
+  }
+}

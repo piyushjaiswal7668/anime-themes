@@ -1,0 +1,39 @@
+{
+  "id": "kurenai",
+  "name": "Kurenai",
+  "character": "Kurenai Yuhi",
+  "emoji": "🌹",
+  "group": "Sensei & Kage",
+  "order": 9,
+  "promptUser": "kurenai",
+  "promptHost": "genjutsu-garden",
+  "macAccent": "red",
+  "motif": "blossom",
+  "colors": {
+    "bg": "#1d1318",
+    "surface": "#2b1d25",
+    "fg": "#efe6e1",
+    "muted": "#98838f",
+    "accent": "#d2364a",
+    "accent2": "#8a6ac8",
+    "accent3": "#f0c8d0",
+    "ansi": [
+      "#2b1d25",
+      "#de515e",
+      "#94b674",
+      "#e3af75",
+      "#7b93d5",
+      "#c780ce",
+      "#6dafb9",
+      "#d9cdcc",
+      "#67555f",
+      "#e57781",
+      "#acc693",
+      "#e9c193",
+      "#98abde",
+      "#d39cd9",
+      "#8dc1c8",
+      "#f7f2f0"
+    ]
+  }
+}

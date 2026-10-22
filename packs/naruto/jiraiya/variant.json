@@ -1,0 +1,39 @@
+{
+  "id": "jiraiya",
+  "name": "Jiraiya",
+  "character": "Jiraiya",
+  "emoji": "🐸",
+  "group": "Sensei & Kage",
+  "order": 5,
+  "promptUser": "jiraiya",
+  "promptHost": "mount-myoboku",
+  "macAccent": "red",
+  "motif": "scroll",
+  "colors": {
+    "bg": "#15130f",
+    "surface": "#221e18",
+    "fg": "#f3ead9",
+    "muted": "#9a8f7c",
+    "accent": "#d23f33",
+    "accent2": "#9cbf5e",
+    "accent3": "#e6d3a3",
+    "ansi": [
+      "#221e18",
+      "#d23f33",
+      "#9cbf5e",
+      "#e3b552",
+      "#6f95c9",
+      "#b9739a",
+      "#63ad9e",
+      "#e0d6c3",
+      "#524a3d",
+      "#f2614f",
+      "#b8d97c",
+      "#f6cd70",
+      "#93b4e2",
+      "#d593b6",
+      "#84c9bb",
+      "#fbf5ea"
+    ]
+  }
+}

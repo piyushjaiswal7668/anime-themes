@@ -1,0 +1,39 @@
+{
+  "id": "hashirama",
+  "name": "Hashirama",
+  "character": "Hashirama Senju",
+  "emoji": "🌲",
+  "group": "Sensei & Kage",
+  "order": 12,
+  "promptUser": "hashirama",
+  "promptHost": "konoha-founding",
+  "macAccent": "green",
+  "motif": "bamboo",
+  "colors": {
+    "bg": "#131a19",
+    "surface": "#1f2726",
+    "fg": "#e9ebe2",
+    "muted": "#859391",
+    "accent": "#4fa45a",
+    "accent2": "#c94a3a",
+    "accent3": "#d9c08a",
+    "ansi": [
+      "#1f2726",
+      "#cf5e60",
+      "#85c376",
+      "#d3bd77",
+      "#6ba0d7",
+      "#b78dd0",
+      "#5dbdbb",
+      "#d0d5ce",
+      "#576261",
+      "#da8183",
+      "#a0d094",
+      "#ddcc95",
+      "#8cb5e0",
+      "#c7a6da",
+      "#81ccca",
+      "#f4f5f0"
+    ]
+  }
+}

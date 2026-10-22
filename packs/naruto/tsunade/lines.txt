@@ -1,0 +1,8 @@
+Heal the broken build before adding features.
+Strong foundations first. Then go fast.
+Check the vitals: logs, metrics, tests.
+Luck favors the developer who wrote tests.
+One precise fix beats a hundred guesses.
+Protect the people who depend on your code.
+Rest is part of recovery. Take your break.
+Lead with strength and care at the same time.

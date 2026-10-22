@@ -1,0 +1,39 @@
+{
+  "id": "akaza",
+  "name": "Akaza",
+  "character": "Akaza",
+  "emoji": "👊",
+  "group": "Demons",
+  "order": 3,
+  "promptUser": "akaza",
+  "promptHost": "upper-moon-three",
+  "macAccent": "pink",
+  "motif": "burst",
+  "colors": {
+    "bg": "#1e161d",
+    "surface": "#2d222c",
+    "fg": "#f1e8e5",
+    "muted": "#9b8b9a",
+    "accent": "#e86a9a",
+    "accent2": "#4a6ad8",
+    "accent3": "#e8e8f0",
+    "ansi": [
+      "#2d222c",
+      "#e15868",
+      "#97bc7e",
+      "#e5b67f",
+      "#7e9adf",
+      "#c986d8",
+      "#6fb6c2",
+      "#dcd1d2",
+      "#6a5c68",
+      "#e87d89",
+      "#aecb9a",
+      "#ebc69b",
+      "#9ab0e6",
+      "#d5a1e1",
+      "#8fc6cf",
+      "#f8f4f2"
+    ]
+  }
+}

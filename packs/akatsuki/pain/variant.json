@@ -1,0 +1,38 @@
+{
+  "id": "pain",
+  "name": "Pain",
+  "character": "Pain (Nagato)",
+  "emoji": "☔",
+  "order": 2,
+  "promptUser": "pain",
+  "promptHost": "amegakure",
+  "macAccent": "orange",
+  "motif": "ripples",
+  "colors": {
+    "bg": "#121014",
+    "surface": "#1d1a20",
+    "fg": "#ece8ef",
+    "muted": "#8f8796",
+    "accent": "#e8792b",
+    "accent2": "#a89ccf",
+    "accent3": "#c94a3b",
+    "ansi": [
+      "#1d1a20",
+      "#e1595b",
+      "#97be71",
+      "#e5b771",
+      "#7e9bd1",
+      "#c988ca",
+      "#6fb7b5",
+      "#d5d0d9",
+      "#5c5661",
+      "#e87e7f",
+      "#aecc90",
+      "#ebc790",
+      "#9ab1db",
+      "#d5a2d6",
+      "#8fc7c5",
+      "#f6f4f7"
+    ]
+  }
+}

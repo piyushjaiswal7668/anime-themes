@@ -1,0 +1,39 @@
+{
+  "id": "asuma",
+  "name": "Asuma",
+  "character": "Asuma Sarutobi",
+  "emoji": "💨",
+  "group": "Sensei & Kage",
+  "order": 8,
+  "promptUser": "asuma",
+  "promptHost": "sarutobi-house",
+  "macAccent": "blue",
+  "motif": "swirl",
+  "colors": {
+    "bg": "#141a20",
+    "surface": "#202830",
+    "fg": "#e9ebe7",
+    "muted": "#8793a0",
+    "accent": "#5aa6c4",
+    "accent2": "#a68a6a",
+    "accent3": "#e0e0e0",
+    "ansi": [
+      "#202830",
+      "#d05f6d",
+      "#86c383",
+      "#d4bd84",
+      "#6ca1e4",
+      "#b88ddd",
+      "#5ebdc8",
+      "#d0d5d5",
+      "#59636e",
+      "#da828d",
+      "#a1d09e",
+      "#ddcc9f",
+      "#8cb6ea",
+      "#c8a6e4",
+      "#81ccd4",
+      "#f4f5f3"
+    ]
+  }
+}

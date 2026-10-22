@@ -1,0 +1,39 @@
+{
+  "id": "giyu",
+  "name": "Giyu",
+  "character": "Giyu Tomioka",
+  "emoji": "🫧",
+  "group": "Hashira",
+  "order": 1,
+  "promptUser": "giyu",
+  "promptHost": "water-hashira",
+  "macAccent": "blue",
+  "motif": "wave",
+  "colors": {
+    "bg": "#121621",
+    "surface": "#1d2230",
+    "fg": "#e8e8e7",
+    "muted": "#828ba0",
+    "accent": "#3a6ac8",
+    "accent2": "#a84a5a",
+    "accent3": "#c8b84a",
+    "ansi": [
+      "#1d2230",
+      "#cc586d",
+      "#82bc83",
+      "#d0b684",
+      "#699ae4",
+      "#b486dd",
+      "#5bb6c8",
+      "#ced1d5",
+      "#555c6e",
+      "#d77d8d",
+      "#9ecb9e",
+      "#dac69f",
+      "#8ab0ea",
+      "#c4a1e4",
+      "#7fc6d4",
+      "#f4f4f3"
+    ]
+  }
+}

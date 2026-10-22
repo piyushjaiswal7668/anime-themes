@@ -1,0 +1,39 @@
+{
+  "id": "yamato",
+  "name": "Yamato",
+  "character": "Yamato",
+  "emoji": "🌳",
+  "group": "Team 7",
+  "order": 6,
+  "promptUser": "yamato",
+  "promptHost": "wood-house",
+  "macAccent": "green",
+  "motif": "leaf",
+  "colors": {
+    "bg": "#161a18",
+    "surface": "#232725",
+    "fg": "#ebebe1",
+    "muted": "#8b928f",
+    "accent": "#7a9c4a",
+    "accent2": "#a7754a",
+    "accent3": "#e2d29a",
+    "ansi": [
+      "#232725",
+      "#d45e5e",
+      "#8ac274",
+      "#d8bc75",
+      "#70a0d5",
+      "#bc8cce",
+      "#62bcb9",
+      "#d3d5cc",
+      "#5c625f",
+      "#dd8181",
+      "#a4cf93",
+      "#e1cb93",
+      "#8fb5de",
+      "#cba5d9",
+      "#85cbc8",
+      "#f5f5f0"
+    ]
+  }
+}

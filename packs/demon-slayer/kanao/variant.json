@@ -1,0 +1,39 @@
+{
+  "id": "kanao",
+  "name": "Kanao",
+  "character": "Kanao Tsuyuri",
+  "emoji": "🪙",
+  "group": "Tanjiro & Friends",
+  "order": 5,
+  "promptUser": "kanao",
+  "promptHost": "butterfly-garden",
+  "macAccent": "pink",
+  "motif": "blossom",
+  "colors": {
+    "bg": "#1e1a1f",
+    "surface": "#2d262f",
+    "fg": "#f1ebe7",
+    "muted": "#9b919e",
+    "accent": "#e898b8",
+    "accent2": "#8a6ad8",
+    "accent3": "#e8e4f0",
+    "ansi": [
+      "#2d262f",
+      "#e15d6b",
+      "#97c181",
+      "#e5bb82",
+      "#7e9fe2",
+      "#c98cdb",
+      "#6fbbc6",
+      "#dcd4d5",
+      "#6a616c",
+      "#e8818c",
+      "#aecf9d",
+      "#ebca9e",
+      "#9ab4e8",
+      "#d5a5e3",
+      "#8fcad3",
+      "#f8f5f3"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "muichiro",
+  "name": "Muichiro",
+  "character": "Muichiro Tokito",
+  "emoji": "🌁",
+  "group": "Hashira",
+  "order": 7,
+  "promptUser": "muichiro",
+  "promptHost": "mist-hashira",
+  "macAccent": "blue",
+  "motif": "cloud",
+  "colors": {
+    "bg": "#161d21",
+    "surface": "#232b30",
+    "fg": "#ebede7",
+    "muted": "#8b99a0",
+    "accent": "#7ad0c8",
+    "accent2": "#a0b0c8",
+    "accent3": "#e8f0f0",
+    "ansi": [
+      "#232b30",
+      "#d4646d",
+      "#8ac883",
+      "#d8c284",
+      "#70a6e4",
+      "#bc92dd",
+      "#62c2c8",
+      "#d3d8d5",
+      "#5c686e",
+      "#dd868d",
+      "#a4d49e",
+      "#e1cf9f",
+      "#8fbaea",
+      "#cbaae4",
+      "#85cfd4",
+      "#f5f6f3"
+    ]
+  }
+}

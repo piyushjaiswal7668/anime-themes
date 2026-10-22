@@ -1,0 +1,39 @@
+{
+  "id": "kagaya",
+  "name": "Kagaya",
+  "character": "Kagaya Ubuyashiki",
+  "emoji": "🏮",
+  "group": "Others",
+  "order": 3,
+  "promptUser": "kagaya",
+  "promptHost": "ubuyashiki-estate",
+  "macAccent": "purple",
+  "motif": "ripples",
+  "colors": {
+    "bg": "#191721",
+    "surface": "#262431",
+    "fg": "#ede9e8",
+    "muted": "#908da2",
+    "accent": "#9a7ad0",
+    "accent2": "#e8e0f0",
+    "accent3": "#9a8a7a",
+    "ansi": [
+      "#262431",
+      "#d8596e",
+      "#8ebe84",
+      "#dcb885",
+      "#749be5",
+      "#c088de",
+      "#66b8c9",
+      "#d6d2d6",
+      "#605e6f",
+      "#e17e8e",
+      "#a7cc9f",
+      "#e4c8a0",
+      "#93b1eb",
+      "#cea2e5",
+      "#88c8d5",
+      "#f6f4f4"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "mitsuri",
+  "name": "Mitsuri",
+  "character": "Mitsuri Kanroji",
+  "emoji": "💖",
+  "group": "Hashira",
+  "order": 6,
+  "promptUser": "mitsuri",
+  "promptHost": "love-hashira",
+  "macAccent": "pink",
+  "motif": "swirl",
+  "colors": {
+    "bg": "#1f191f",
+    "surface": "#2d252e",
+    "fg": "#f1eae6",
+    "muted": "#9c8f9d",
+    "accent": "#f08ab0",
+    "accent2": "#8ad090",
+    "accent3": "#f0e0a0",
+    "ansi": [
+      "#2d252e",
+      "#e25b6a",
+      "#98c080",
+      "#e6ba81",
+      "#7e9de1",
+      "#ca8ada",
+      "#70bac5",
+      "#dcd3d4",
+      "#6a5f6b",
+      "#e87f8b",
+      "#afce9c",
+      "#ecc99d",
+      "#9ab3e8",
+      "#d6a4e2",
+      "#8fc9d2",
+      "#f8f4f2"
+    ]
+  }
+}

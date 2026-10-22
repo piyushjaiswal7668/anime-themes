@@ -1,0 +1,8 @@
+Fold complexity into something simple.
+Many small pieces, carefully placed, make something strong.
+Clean code is quiet. Let it be.
+Protect the people you work with.
+One sheet at a time, one commit at a time.
+Graceful code is still powerful code.
+Hope is a plan with tests.
+Stay loyal to the craft.

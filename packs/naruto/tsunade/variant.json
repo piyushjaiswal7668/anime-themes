@@ -1,0 +1,39 @@
+{
+  "id": "tsunade",
+  "name": "Tsunade",
+  "character": "Tsunade",
+  "emoji": "💎",
+  "group": "Sensei & Kage",
+  "order": 6,
+  "promptUser": "tsunade",
+  "promptHost": "konoha-hospital",
+  "macAccent": "yellow",
+  "motif": "diamond",
+  "colors": {
+    "bg": "#0f1612",
+    "surface": "#18231c",
+    "fg": "#f4efdc",
+    "muted": "#8e9a8f",
+    "accent": "#e2b84a",
+    "accent2": "#4fb07c",
+    "accent3": "#b483e0",
+    "ansi": [
+      "#18231c",
+      "#d65a4f",
+      "#4fb07c",
+      "#e2b84a",
+      "#6a95d4",
+      "#b483e0",
+      "#4fb3ad",
+      "#dcd6c4",
+      "#3d5045",
+      "#f27a6c",
+      "#72cc9a",
+      "#f4d06e",
+      "#8eb3ec",
+      "#cda4f2",
+      "#74cfc8",
+      "#fbf8ec"
+    ]
+  }
+}

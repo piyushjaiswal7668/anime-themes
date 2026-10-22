@@ -1,0 +1,39 @@
+{
+  "id": "indra",
+  "name": "Indra",
+  "character": "Indra Otsutsuki",
+  "emoji": "🏯",
+  "group": "Uchiha",
+  "order": 4,
+  "promptUser": "indra",
+  "promptHost": "ancient-temple",
+  "macAccent": "purple",
+  "motif": "fan",
+  "colors": {
+    "bg": "#181522",
+    "surface": "#242131",
+    "fg": "#ece8e8",
+    "muted": "#8d88a3",
+    "accent": "#8a5ad8",
+    "accent2": "#d0283a",
+    "accent3": "#d9d0e8",
+    "ansi": [
+      "#242131",
+      "#d6566f",
+      "#8cba85",
+      "#dab486",
+      "#7298e6",
+      "#be84df",
+      "#64b4ca",
+      "#d4d0d7",
+      "#5e5a70",
+      "#df7b8f",
+      "#a5c9a0",
+      "#e2c4a1",
+      "#91afec",
+      "#cc9fe6",
+      "#86c4d6",
+      "#f6f4f4"
+    ]
+  }
+}

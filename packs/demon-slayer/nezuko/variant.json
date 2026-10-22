@@ -1,0 +1,39 @@
+{
+  "id": "nezuko",
+  "name": "Nezuko",
+  "character": "Nezuko Kamado",
+  "emoji": "🎋",
+  "group": "Tanjiro & Friends",
+  "order": 2,
+  "promptUser": "nezuko",
+  "promptHost": "kamado-house",
+  "macAccent": "pink",
+  "motif": "bamboo",
+  "colors": {
+    "bg": "#1f1218",
+    "surface": "#2c1a23",
+    "fg": "#fbe5ec",
+    "muted": "#a58b96",
+    "accent": "#ec8fae",
+    "accent2": "#8fbf74",
+    "accent3": "#e07a98",
+    "ansi": [
+      "#2c1a23",
+      "#e05a74",
+      "#7fae66",
+      "#e8c06a",
+      "#8a9ee0",
+      "#ec8fae",
+      "#6fbdb4",
+      "#ead4dc",
+      "#5c4150",
+      "#ff7c94",
+      "#9ccc82",
+      "#f6d68c",
+      "#a8b8f2",
+      "#ffb0ca",
+      "#8fd8ce",
+      "#fff3f7"
+    ]
+  }
+}

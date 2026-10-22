@@ -1,0 +1,39 @@
+{
+  "id": "gaara",
+  "name": "Gaara",
+  "character": "Gaara",
+  "emoji": "⏳",
+  "group": "Sand & Other Villages",
+  "order": 1,
+  "promptUser": "gaara",
+  "promptHost": "kazekage-tower",
+  "macAccent": "red",
+  "motif": "ripples",
+  "colors": {
+    "bg": "#1c1316",
+    "surface": "#2a1e22",
+    "fg": "#efe6e0",
+    "muted": "#96858b",
+    "accent": "#c7402f",
+    "accent2": "#d9b46a",
+    "accent3": "#5aa08a",
+    "ansi": [
+      "#2a1e22",
+      "#dd525b",
+      "#93b771",
+      "#e1b172",
+      "#7a94d2",
+      "#c581cb",
+      "#6bb1b6",
+      "#d9cecb",
+      "#65575c",
+      "#e4787f",
+      "#abc790",
+      "#e8c291",
+      "#97acdc",
+      "#d29dd6",
+      "#8cc2c6",
+      "#f7f2f0"
+    ]
+  }
+}

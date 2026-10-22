@@ -1,0 +1,39 @@
+{
+  "id": "sanemi",
+  "name": "Sanemi",
+  "character": "Sanemi Shinazugawa",
+  "emoji": "🦅",
+  "group": "Hashira",
+  "order": 9,
+  "promptUser": "sanemi",
+  "promptHost": "wind-hashira",
+  "macAccent": "green",
+  "motif": "stitch",
+  "colors": {
+    "bg": "#141c1c",
+    "surface": "#202a2a",
+    "fg": "#e9ede4",
+    "muted": "#879798",
+    "accent": "#5ac08a",
+    "accent2": "#d0d0d8",
+    "accent3": "#c0392b",
+    "ansi": [
+      "#202a2a",
+      "#d06266",
+      "#86c67c",
+      "#d4c07d",
+      "#6ca4dd",
+      "#b890d6",
+      "#5ec0c1",
+      "#d0d8d1",
+      "#596666",
+      "#da8588",
+      "#a1d399",
+      "#ddce9a",
+      "#8cb8e4",
+      "#c8a8df",
+      "#81cecf",
+      "#f4f6f2"
+    ]
+  }
+}

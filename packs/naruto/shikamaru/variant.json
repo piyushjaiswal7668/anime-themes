@@ -1,0 +1,39 @@
+{
+  "id": "shikamaru",
+  "name": "Shikamaru",
+  "character": "Shikamaru Nara",
+  "emoji": "🦌",
+  "group": "Konoha 11",
+  "order": 2,
+  "promptUser": "shikamaru",
+  "promptHost": "nara-forest",
+  "macAccent": "green",
+  "motif": "cloud",
+  "colors": {
+    "bg": "#171919",
+    "surface": "#232526",
+    "fg": "#ebeae2",
+    "muted": "#8c8f92",
+    "accent": "#7e8c5e",
+    "accent2": "#9aa6c0",
+    "accent3": "#d9c27a",
+    "ansi": [
+      "#232526",
+      "#d45c61",
+      "#8ac077",
+      "#d9ba78",
+      "#719ed7",
+      "#bc8ad0",
+      "#63babb",
+      "#d3d3ce",
+      "#5d5f61",
+      "#dd8084",
+      "#a4ce95",
+      "#e1c996",
+      "#90b3e0",
+      "#cba4da",
+      "#85c9ca",
+      "#f5f4f0"
+    ]
+  }
+}

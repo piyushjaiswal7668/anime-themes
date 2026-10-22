@@ -1,0 +1,38 @@
+{
+  "id": "zetsu",
+  "name": "Zetsu",
+  "character": "Zetsu",
+  "emoji": "🌿",
+  "order": 9,
+  "promptUser": "zetsu",
+  "promptHost": "underground",
+  "macAccent": "green",
+  "motif": "leaf",
+  "colors": {
+    "bg": "#0e1410",
+    "surface": "#18211a",
+    "fg": "#eef3ea",
+    "muted": "#8c9a8c",
+    "accent": "#6bbf4a",
+    "accent2": "#e8ece4",
+    "accent3": "#9ad07a",
+    "ansi": [
+      "#18211a",
+      "#d2625e",
+      "#88c674",
+      "#d6c075",
+      "#6fa4d5",
+      "#ba90ce",
+      "#60c0b9",
+      "#d6ddd2",
+      "#586459",
+      "#dc8581",
+      "#a2d393",
+      "#dfce93",
+      "#8fb8de",
+      "#c9a8d9",
+      "#83cec8",
+      "#f6f9f4"
+    ]
+  }
+}

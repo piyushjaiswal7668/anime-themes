@@ -1,0 +1,38 @@
+{
+  "id": "kakuzu",
+  "name": "Kakuzu",
+  "character": "Kakuzu",
+  "emoji": "💰",
+  "order": 8,
+  "promptUser": "kakuzu",
+  "promptHost": "takigakure",
+  "macAccent": "green",
+  "motif": "stitch",
+  "colors": {
+    "bg": "#0f1310",
+    "surface": "#1a201b",
+    "fg": "#e8eee6",
+    "muted": "#8a988b",
+    "accent": "#3fbf6a",
+    "accent2": "#d04a4a",
+    "accent3": "#d7b75a",
+    "ansi": [
+      "#1a201b",
+      "#cd6262",
+      "#83c678",
+      "#d1c079",
+      "#69a4d9",
+      "#b590d2",
+      "#5bc0bd",
+      "#d0d8cf",
+      "#586259",
+      "#d88585",
+      "#9ed396",
+      "#dbce96",
+      "#8ab8e1",
+      "#c5a8dc",
+      "#7fcecc",
+      "#f4f6f2"
+    ]
+  }
+}

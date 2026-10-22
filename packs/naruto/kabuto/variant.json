@@ -1,0 +1,39 @@
+{
+  "id": "kabuto",
+  "name": "Kabuto",
+  "character": "Kabuto Yakushi",
+  "emoji": "👓",
+  "group": "Others",
+  "order": 4,
+  "promptUser": "kabuto",
+  "promptHost": "hidden-lab",
+  "macAccent": "purple",
+  "motif": "snake",
+  "colors": {
+    "bg": "#191921",
+    "surface": "#262531",
+    "fg": "#edeae8",
+    "muted": "#908fa2",
+    "accent": "#9a8ad0",
+    "accent2": "#c9c9d1",
+    "accent3": "#6aa08a",
+    "ansi": [
+      "#262531",
+      "#d85b6e",
+      "#8ec084",
+      "#dcba85",
+      "#749de5",
+      "#c08ade",
+      "#66bac9",
+      "#d6d3d6",
+      "#605f6f",
+      "#e17f8e",
+      "#a7ce9f",
+      "#e4c9a0",
+      "#93b3eb",
+      "#cea4e5",
+      "#88c9d5",
+      "#f6f4f4"
+    ]
+  }
+}

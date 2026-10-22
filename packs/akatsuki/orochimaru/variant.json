@@ -1,0 +1,38 @@
+{
+  "id": "orochimaru",
+  "name": "Orochimaru",
+  "character": "Orochimaru",
+  "emoji": "🐍",
+  "order": 10,
+  "promptUser": "orochimaru",
+  "promptHost": "otogakure",
+  "macAccent": "purple",
+  "motif": "snake",
+  "colors": {
+    "bg": "#13101a",
+    "surface": "#1e1828",
+    "fg": "#eee8f4",
+    "muted": "#958aa5",
+    "accent": "#9a66dc",
+    "accent2": "#d9c341",
+    "accent3": "#7fb07a",
+    "ansi": [
+      "#1e1828",
+      "#d85770",
+      "#8ebb86",
+      "#dcb587",
+      "#7499e7",
+      "#c086e0",
+      "#66b5ca",
+      "#d8d0e0",
+      "#5f576d",
+      "#e17c8f",
+      "#a7caa1",
+      "#e4c5a1",
+      "#93afec",
+      "#cea1e7",
+      "#88c5d6",
+      "#f6f4fa"
+    ]
+  }
+}

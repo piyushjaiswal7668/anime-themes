@@ -1,0 +1,39 @@
+{
+  "id": "raikage",
+  "name": "Raikage A",
+  "character": "A (Fourth Raikage)",
+  "emoji": "🥊",
+  "group": "Sand & Other Villages",
+  "order": 5,
+  "promptUser": "raikage",
+  "promptHost": "kumogakure",
+  "macAccent": "yellow",
+  "motif": "bolt",
+  "colors": {
+    "bg": "#1e1d17",
+    "surface": "#2d2a23",
+    "fg": "#f1ede0",
+    "muted": "#9b978d",
+    "accent": "#e8c43a",
+    "accent2": "#c0392b",
+    "accent3": "#8a6a5a",
+    "ansi": [
+      "#2d2a23",
+      "#e1625c",
+      "#97c772",
+      "#e5c073",
+      "#7ea4d3",
+      "#c991cc",
+      "#6fc0b7",
+      "#dcd8cb",
+      "#6a665d",
+      "#e88580",
+      "#aed391",
+      "#ebce92",
+      "#9ab8dd",
+      "#d5a9d7",
+      "#8fcec7",
+      "#f8f6f0"
+    ]
+  }
+}

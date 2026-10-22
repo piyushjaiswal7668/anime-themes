@@ -1,0 +1,6 @@
+Read the code before you rewrite it.
+Copying a good pattern is a skill, not a shortcut.
+Teamwork beats lone heroics.
+Being late is human; shipping broken code is optional.
+Stay calm. Calm finds bugs faster.
+Always check one layer deeper.

@@ -1,0 +1,39 @@
+{
+  "id": "madara",
+  "name": "Madara",
+  "character": "Madara Uchiha",
+  "emoji": "🌑",
+  "group": "Uchiha",
+  "order": 1,
+  "promptUser": "madara",
+  "promptHost": "valley-of-the-end",
+  "macAccent": "red",
+  "motif": "ripples",
+  "colors": {
+    "bg": "#110d14",
+    "surface": "#1c1622",
+    "fg": "#ece6ee",
+    "muted": "#8f8597",
+    "accent": "#c21d30",
+    "accent2": "#b39ae0",
+    "accent3": "#d8c7e8",
+    "ansi": [
+      "#1c1622",
+      "#d9374a",
+      "#86ad7c",
+      "#d6ae5c",
+      "#7a86d8",
+      "#b39ae0",
+      "#66a9b8",
+      "#d6cfd9",
+      "#4a3f52",
+      "#ff5a6c",
+      "#a2cc96",
+      "#f0c878",
+      "#9aa4f2",
+      "#cdb6f6",
+      "#88c8d6",
+      "#faf6fc"
+    ]
+  }
+}

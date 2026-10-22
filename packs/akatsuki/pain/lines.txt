@@ -1,0 +1,8 @@
+Feeling the pain of a bug is how you learn to prevent it.
+Every outage teaches something. Write it down.
+Six small modules beat one giant one.
+Pull the team together, then push the release.
+Understand the problem fully before you fix it.
+Growth hurts. Keep going anyway.
+Calm leaders ship better software.
+Look at the system from every angle.

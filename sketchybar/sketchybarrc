@@ -1,0 +1,42 @@
+#!/bin/bash
+# SketchyBar layout for Anime Themes. Colors come from the active theme and update when you switch.
+# Tip: hide the macOS menu bar so this one shows (System Settings → Control Center →
+# "Automatically hide and show the menu bar" → Always). Move the mouse to the top to reach the 🍥 menu.
+
+source "$HOME/.config/anime-themes/active/sketchybar-colors.sh" 2>/dev/null
+: "${BAR_COLOR:=0xe6181818}" "${ITEM_BG:=0xff252525}" "${ACCENT:=0xfff47b20}" "${ACCENT2:=0xffffb347}"
+: "${FG:=0xffeeeeee}" "${MUTED:=0xff888888}" "${THEME_EMOJI:=🍥}" "${THEME_NAME:=Anime}"
+
+FONT="Maple Mono"
+
+sketchybar --bar position=top height=34 blur_radius=24 color="$BAR_COLOR" padding_left=10 padding_right=10
+
+sketchybar --default \
+  icon.font="$FONT:Bold:14.0" label.font="$FONT:Regular:13.0" \
+  icon.color="$ACCENT" label.color="$FG" \
+  background.color="$ITEM_BG" background.corner_radius=8 background.height=24 \
+  padding_left=4 padding_right=4 icon.padding_left=8 icon.padding_right=4 label.padding_right=8
+
+sketchybar --add item theme left \
+  --set theme icon="$THEME_EMOJI" label="$THEME_NAME" label.color="$ACCENT"
+
+sketchybar --add item front_app left \
+  --set front_app icon="" icon.padding_left=0 label.color="$FG" \
+        script='sketchybar --set $NAME label="$INFO"' \
+  --subscribe front_app front_app_switched
+
+sketchybar --add item clock right \
+  --set clock icon="◷" update_freq=30 \
+        script='sketchybar --set $NAME label="$(date "+%a %d %b  %H:%M")"'
+
+sketchybar --add item battery right \
+  --set battery icon="⚡" update_freq=120 \
+        script='sketchybar --set $NAME label="$(pmset -g batt | grep -Eo "[0-9]+%" | head -1)"' \
+  --subscribe battery power_source_change system_woke
+
+sketchybar --add item volume right \
+  --set volume icon="♪" icon.color="$ACCENT2" \
+        script='sketchybar --set $NAME label="$INFO%"' \
+  --subscribe volume volume_change
+
+sketchybar --update

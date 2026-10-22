@@ -1,0 +1,39 @@
+{
+  "id": "killer-bee",
+  "name": "Killer Bee",
+  "character": "Killer Bee",
+  "emoji": "🐙",
+  "group": "Sand & Other Villages",
+  "order": 4,
+  "promptUser": "bee",
+  "promptHost": "cloud-village",
+  "macAccent": "yellow",
+  "motif": "wave",
+  "colors": {
+    "bg": "#1e1b17",
+    "surface": "#2d2823",
+    "fg": "#f1ece0",
+    "muted": "#9b948d",
+    "accent": "#e8b03a",
+    "accent2": "#4a6ad0",
+    "accent3": "#e0e0e0",
+    "ansi": [
+      "#2d2823",
+      "#e1605c",
+      "#97c472",
+      "#e5be73",
+      "#7ea2d3",
+      "#c98fcc",
+      "#6fbeb7",
+      "#dcd6cb",
+      "#6a635d",
+      "#e88380",
+      "#aed191",
+      "#ebcc92",
+      "#9ab6dd",
+      "#d5a8d7",
+      "#8fccc7",
+      "#f8f6f0"
+    ]
+  }
+}

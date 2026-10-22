@@ -1,0 +1,39 @@
+{
+  "id": "hinata",
+  "name": "Hinata",
+  "character": "Hinata Hyuga",
+  "emoji": "🪻",
+  "group": "Konoha 11",
+  "order": 1,
+  "promptUser": "hinata",
+  "promptHost": "hyuga-estate",
+  "macAccent": "purple",
+  "motif": "crescent",
+  "colors": {
+    "bg": "#12131f",
+    "surface": "#1c1e30",
+    "fg": "#eceaf6",
+    "muted": "#8d8fab",
+    "accent": "#b8a6e8",
+    "accent2": "#6f8ae0",
+    "accent3": "#f0e8ff",
+    "ansi": [
+      "#1c1e30",
+      "#e0607a",
+      "#84c4a0",
+      "#e4c47a",
+      "#6f8ae0",
+      "#b8a6e8",
+      "#66b8cc",
+      "#d8d6e6",
+      "#474a6a",
+      "#ff8098",
+      "#a2dcba",
+      "#f4d898",
+      "#92a8f6",
+      "#d2c4fa",
+      "#88d2e2",
+      "#f8f7fe"
+    ]
+  }
+}

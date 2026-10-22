@@ -1,0 +1,39 @@
+{
+  "id": "haku",
+  "name": "Haku",
+  "character": "Haku",
+  "emoji": "🧊",
+  "group": "Others",
+  "order": 2,
+  "promptUser": "haku",
+  "promptHost": "ice-mirrors",
+  "macAccent": "blue",
+  "motif": "diamond",
+  "colors": {
+    "bg": "#181d23",
+    "surface": "#242b33",
+    "fg": "#ecede9",
+    "muted": "#8d98a5",
+    "accent": "#8ac8e8",
+    "accent2": "#e8eef4",
+    "accent3": "#5a7ad8",
+    "ansi": [
+      "#242b33",
+      "#d66371",
+      "#8cc787",
+      "#dac188",
+      "#72a5e8",
+      "#be91e1",
+      "#64c1cc",
+      "#d4d8d8",
+      "#5e6772",
+      "#df8590",
+      "#a5d3a1",
+      "#e2cfa2",
+      "#91b9ed",
+      "#cca9e8",
+      "#86cfd7",
+      "#f6f6f4"
+    ]
+  }
+}

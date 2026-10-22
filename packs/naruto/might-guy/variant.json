@@ -1,0 +1,39 @@
+{
+  "id": "might-guy",
+  "name": "Might Guy",
+  "character": "Might Guy",
+  "emoji": "💪",
+  "group": "Sensei & Kage",
+  "order": 7,
+  "promptUser": "guy",
+  "promptHost": "leaf-dojo",
+  "macAccent": "green",
+  "motif": "flame",
+  "colors": {
+    "bg": "#121b18",
+    "surface": "#1d2825",
+    "fg": "#e8ece1",
+    "muted": "#829490",
+    "accent": "#38b04f",
+    "accent2": "#f08a24",
+    "accent3": "#e8e8e8",
+    "ansi": [
+      "#1d2825",
+      "#cc605f",
+      "#82c475",
+      "#d0be76",
+      "#68a2d6",
+      "#b48fcf",
+      "#5abeb9",
+      "#ced6cd",
+      "#556360",
+      "#d78382",
+      "#9ed193",
+      "#dacc94",
+      "#89b6df",
+      "#c4a8da",
+      "#7eccc8",
+      "#f4f6f0"
+    ]
+  }
+}

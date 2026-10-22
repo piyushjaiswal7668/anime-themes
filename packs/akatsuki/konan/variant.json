@@ -1,0 +1,38 @@
+{
+  "id": "konan",
+  "name": "Konan",
+  "character": "Konan",
+  "emoji": "🪽",
+  "order": 3,
+  "promptUser": "konan",
+  "promptHost": "paper-tower",
+  "macAccent": "blue",
+  "motif": "butterfly",
+  "colors": {
+    "bg": "#121521",
+    "surface": "#1b2031",
+    "fg": "#eef0fa",
+    "muted": "#8d93b0",
+    "accent": "#7d86e8",
+    "accent2": "#f2f2f6",
+    "accent3": "#e46b7d",
+    "ansi": [
+      "#1b2031",
+      "#d45b71",
+      "#8abf87",
+      "#d9b988",
+      "#719de8",
+      "#bc8ae1",
+      "#63b9cc",
+      "#d6d9e8",
+      "#5a5f77",
+      "#dd7f90",
+      "#a4cda1",
+      "#e1c8a2",
+      "#90b3ed",
+      "#cba4e8",
+      "#85c8d7",
+      "#f6f8fc"
+    ]
+  }
+}

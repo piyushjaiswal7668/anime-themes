@@ -1,0 +1,39 @@
+{
+  "id": "zabuza",
+  "name": "Zabuza",
+  "character": "Zabuza Momochi",
+  "emoji": "🪓",
+  "group": "Others",
+  "order": 3,
+  "promptUser": "zabuza",
+  "promptHost": "silent-mist",
+  "macAccent": "graphite",
+  "motif": "wave",
+  "colors": {
+    "bg": "#191b1f",
+    "surface": "#26282f",
+    "fg": "#edece7",
+    "muted": "#90949e",
+    "accent": "#9aaab8",
+    "accent2": "#5aa0b8",
+    "accent3": "#c0392b",
+    "ansi": [
+      "#26282f",
+      "#d85f6b",
+      "#8ec481",
+      "#dcbd82",
+      "#74a1e2",
+      "#c08edb",
+      "#66bdc6",
+      "#d6d6d5",
+      "#60636c",
+      "#e1828c",
+      "#a7d19d",
+      "#e4cc9e",
+      "#93b6e8",
+      "#cea7e3",
+      "#88ccd3",
+      "#f6f6f3"
+    ]
+  }
+}

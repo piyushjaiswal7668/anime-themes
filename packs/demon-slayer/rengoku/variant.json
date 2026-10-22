@@ -1,0 +1,39 @@
+{
+  "id": "rengoku",
+  "name": "Rengoku",
+  "character": "Kyojuro Rengoku",
+  "emoji": "🔥",
+  "group": "Hashira",
+  "order": 2,
+  "promptUser": "rengoku",
+  "promptHost": "flame-estate",
+  "macAccent": "orange",
+  "motif": "flame",
+  "colors": {
+    "bg": "#1a1514",
+    "surface": "#26201e",
+    "fg": "#fbe9d0",
+    "muted": "#a08e80",
+    "accent": "#e8512a",
+    "accent2": "#f3b23b",
+    "accent3": "#ff8a5c",
+    "ansi": [
+      "#26201e",
+      "#e8512a",
+      "#a5b863",
+      "#f3b23b",
+      "#6f97cc",
+      "#c7719a",
+      "#6ab2a8",
+      "#e6d6c2",
+      "#554742",
+      "#ff7650",
+      "#c2d482",
+      "#ffcb62",
+      "#92b4e4",
+      "#e092b6",
+      "#8ccec4",
+      "#fff4e4"
+    ]
+  }
+}

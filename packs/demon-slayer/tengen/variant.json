@@ -1,0 +1,39 @@
+{
+  "id": "tengen",
+  "name": "Tengen",
+  "character": "Tengen Uzui",
+  "emoji": "🎆",
+  "group": "Hashira",
+  "order": 5,
+  "promptUser": "tengen",
+  "promptHost": "sound-hashira",
+  "macAccent": "yellow",
+  "motif": "burst",
+  "colors": {
+    "bg": "#1e1c18",
+    "surface": "#2c2a25",
+    "fg": "#f0ede1",
+    "muted": "#999790",
+    "accent": "#e0c050",
+    "accent2": "#d84a7a",
+    "accent3": "#c9d0e0",
+    "ansi": [
+      "#2c2a25",
+      "#e0625f",
+      "#96c675",
+      "#e4c076",
+      "#7da4d6",
+      "#c890cf",
+      "#6ec0ba",
+      "#dad8cd",
+      "#686660",
+      "#e78582",
+      "#add393",
+      "#eace94",
+      "#9ab8df",
+      "#d4a8da",
+      "#8ecec9",
+      "#f8f6f0"
+    ]
+  }
+}

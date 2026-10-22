@@ -1,0 +1,39 @@
+{
+  "id": "uchiha",
+  "name": "Sasuke",
+  "character": "Sasuke Uchiha",
+  "emoji": "🪭",
+  "group": "Team 7",
+  "order": 2,
+  "promptUser": "sasuke",
+  "promptHost": "uchiha-district",
+  "macAccent": "red",
+  "motif": "fan",
+  "colors": {
+    "bg": "#14162a",
+    "surface": "#1e2140",
+    "fg": "#e6e7ef",
+    "muted": "#8a8fa8",
+    "accent": "#d1172b",
+    "accent2": "#b8bccc",
+    "accent3": "#7f8cf0",
+    "ansi": [
+      "#1e2140",
+      "#e0414f",
+      "#7fb38a",
+      "#d8b25a",
+      "#6574d6",
+      "#a66bd0",
+      "#5aa9c4",
+      "#cfd1de",
+      "#474c72",
+      "#ff6070",
+      "#9fd0a9",
+      "#f0cc7a",
+      "#8995f0",
+      "#c38bea",
+      "#7cc7e0",
+      "#f5f6fb"
+    ]
+  }
+}

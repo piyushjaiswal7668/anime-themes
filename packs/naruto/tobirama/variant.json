@@ -1,0 +1,39 @@
+{
+  "id": "tobirama",
+  "name": "Tobirama",
+  "character": "Tobirama Senju",
+  "emoji": "💧",
+  "group": "Sensei & Kage",
+  "order": 13,
+  "promptUser": "tobirama",
+  "promptHost": "second-hokage",
+  "macAccent": "blue",
+  "motif": "wave",
+  "colors": {
+    "bg": "#131a22",
+    "surface": "#1e2731",
+    "fg": "#e9ebe8",
+    "muted": "#8493a3",
+    "accent": "#4aa3d8",
+    "accent2": "#d03a3a",
+    "accent3": "#e8e8f0",
+    "ansi": [
+      "#1e2731",
+      "#ce5e6f",
+      "#84c385",
+      "#d2bd86",
+      "#6ba0e6",
+      "#b68ddf",
+      "#5cbdca",
+      "#d0d5d7",
+      "#566270",
+      "#d9818f",
+      "#9fd0a0",
+      "#dccca1",
+      "#8cb5ec",
+      "#c6a6e6",
+      "#80ccd6",
+      "#f4f5f4"
+    ]
+  }
+}

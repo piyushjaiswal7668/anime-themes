@@ -1,0 +1,39 @@
+{
+  "id": "sakura",
+  "name": "Sakura",
+  "character": "Sakura Haruno",
+  "emoji": "🌸",
+  "group": "Team 7",
+  "order": 3,
+  "promptUser": "sakura",
+  "promptHost": "team-seven",
+  "macAccent": "pink",
+  "motif": "blossom",
+  "colors": {
+    "bg": "#1d1418",
+    "surface": "#2a1d23",
+    "fg": "#fbe9ef",
+    "muted": "#a68e98",
+    "accent": "#f28fb0",
+    "accent2": "#e0505e",
+    "accent3": "#8fc7a0",
+    "ansi": [
+      "#2a1d23",
+      "#e0505e",
+      "#8fc7a0",
+      "#e8bf72",
+      "#8a9fe0",
+      "#f28fb0",
+      "#6fbdb8",
+      "#ecd8df",
+      "#5c4450",
+      "#ff7482",
+      "#ace0bb",
+      "#f8d692",
+      "#a9bbf4",
+      "#ffb0c9",
+      "#90d8d2",
+      "#fff4f7"
+    ]
+  }
+}

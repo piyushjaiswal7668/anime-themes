@@ -1,0 +1,38 @@
+{
+  "id": "kisame",
+  "name": "Kisame",
+  "character": "Kisame Hoshigaki",
+  "emoji": "🦈",
+  "order": 4,
+  "promptUser": "kisame",
+  "promptHost": "mist-village",
+  "macAccent": "blue",
+  "motif": "wave",
+  "colors": {
+    "bg": "#0c1418",
+    "surface": "#142127",
+    "fg": "#e3f1f4",
+    "muted": "#7f98a0",
+    "accent": "#3fa7c4",
+    "accent2": "#6fd0c4",
+    "accent3": "#d06060",
+    "ansi": [
+      "#142127",
+      "#cd5f6d",
+      "#83c383",
+      "#d1bd84",
+      "#69a1e4",
+      "#b58ddd",
+      "#5bbdc8",
+      "#cadbdf",
+      "#4f626a",
+      "#d8828d",
+      "#9ed09e",
+      "#dbcc9f",
+      "#8ab6ea",
+      "#c5a6e4",
+      "#7fccd4",
+      "#f1f8fa"
+    ]
+  }
+}

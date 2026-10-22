@@ -1,0 +1,38 @@
+{
+  "id": "sasori",
+  "name": "Sasori",
+  "character": "Sasori",
+  "emoji": "🦂",
+  "order": 6,
+  "promptUser": "sasori",
+  "promptHost": "sunagakure",
+  "macAccent": "red",
+  "motif": "strings",
+  "colors": {
+    "bg": "#160f0f",
+    "surface": "#221818",
+    "fg": "#f2e6e1",
+    "muted": "#9c8682",
+    "accent": "#c23a42",
+    "accent2": "#c49a63",
+    "accent3": "#e1c27a",
+    "ansi": [
+      "#221818",
+      "#dc525d",
+      "#92b673",
+      "#e1b074",
+      "#7994d4",
+      "#c580cd",
+      "#6bb0b8",
+      "#dccec9",
+      "#655452",
+      "#e47881",
+      "#aac692",
+      "#e8c193",
+      "#96acdd",
+      "#d29cd8",
+      "#8cc1c8",
+      "#f8f2f0"
+    ]
+  }
+}

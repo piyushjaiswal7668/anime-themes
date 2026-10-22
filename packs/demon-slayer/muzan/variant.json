@@ -1,0 +1,39 @@
+{
+  "id": "muzan",
+  "name": "Muzan",
+  "character": "Muzan Kibutsuji",
+  "emoji": "🩸",
+  "group": "Demons",
+  "order": 1,
+  "promptUser": "muzan",
+  "promptHost": "infinity-castle",
+  "macAccent": "red",
+  "motif": "eye",
+  "colors": {
+    "bg": "#1b1217",
+    "surface": "#291c23",
+    "fg": "#efe5e0",
+    "muted": "#95818d",
+    "accent": "#c0283a",
+    "accent2": "#e8e8e8",
+    "accent3": "#9a3a6a",
+    "ansi": [
+      "#291c23",
+      "#dc505c",
+      "#92b472",
+      "#e1ae73",
+      "#7992d3",
+      "#c47ecc",
+      "#6baeb7",
+      "#d8cccb",
+      "#64545d",
+      "#e47680",
+      "#aac491",
+      "#e8c092",
+      "#96aadd",
+      "#d19ad7",
+      "#8cc0c7",
+      "#f7f2f0"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "genya",
+  "name": "Genya",
+  "character": "Genya Shinazugawa",
+  "emoji": "🗿",
+  "group": "Tanjiro & Friends",
+  "order": 6,
+  "promptUser": "genya",
+  "promptHost": "shinazugawa-house",
+  "macAccent": "purple",
+  "motif": "triangle",
+  "colors": {
+    "bg": "#181521",
+    "surface": "#242131",
+    "fg": "#ece8e8",
+    "muted": "#8d88a2",
+    "accent": "#8a5ad0",
+    "accent2": "#6a6a7a",
+    "accent3": "#d04a3a",
+    "ansi": [
+      "#242131",
+      "#d6566e",
+      "#8cba84",
+      "#dab485",
+      "#7298e5",
+      "#be84de",
+      "#64b4c9",
+      "#d4d0d6",
+      "#5e5a6f",
+      "#df7b8e",
+      "#a5c99f",
+      "#e2c4a0",
+      "#91afeb",
+      "#cc9fe5",
+      "#86c4d5",
+      "#f6f4f4"
+    ]
+  }
+}

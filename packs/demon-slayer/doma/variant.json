@@ -1,0 +1,39 @@
+{
+  "id": "doma",
+  "name": "Doma",
+  "character": "Doma",
+  "emoji": "🪷",
+  "group": "Demons",
+  "order": 4,
+  "promptUser": "doma",
+  "promptHost": "upper-moon-two",
+  "macAccent": "blue",
+  "motif": "blossom",
+  "colors": {
+    "bg": "#181c23",
+    "surface": "#242a33",
+    "fg": "#ecede9",
+    "muted": "#8d97a5",
+    "accent": "#8ac0e8",
+    "accent2": "#d0a0e0",
+    "accent3": "#e8e8f0",
+    "ansi": [
+      "#242a33",
+      "#d66271",
+      "#8cc687",
+      "#dac088",
+      "#72a4e8",
+      "#be90e1",
+      "#64c0cc",
+      "#d4d8d8",
+      "#5e6672",
+      "#df8590",
+      "#a5d3a1",
+      "#e2cea2",
+      "#91b8ed",
+      "#cca8e8",
+      "#86ced7",
+      "#f6f6f4"
+    ]
+  }
+}

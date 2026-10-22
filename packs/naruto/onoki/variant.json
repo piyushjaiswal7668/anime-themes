@@ -1,0 +1,39 @@
+{
+  "id": "onoki",
+  "name": "Onoki",
+  "character": "Onoki",
+  "emoji": "🪨",
+  "group": "Sand & Other Villages",
+  "order": 7,
+  "promptUser": "onoki",
+  "promptHost": "stone-village",
+  "macAccent": "yellow",
+  "motif": "diamond",
+  "colors": {
+    "bg": "#1a1a1b",
+    "surface": "#282729",
+    "fg": "#eeebe3",
+    "muted": "#939296",
+    "accent": "#b0a07a",
+    "accent2": "#6aa0d0",
+    "accent3": "#d0a040",
+    "ansi": [
+      "#282729",
+      "#da5e64",
+      "#90c27a",
+      "#dfbc7b",
+      "#77a0db",
+      "#c28dd4",
+      "#69bcbf",
+      "#d7d5d0",
+      "#636265",
+      "#e28186",
+      "#a8cf97",
+      "#e6cb98",
+      "#95b5e3",
+      "#cfa6dd",
+      "#8acbcd",
+      "#f6f5f1"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "naruto",
+  "name": "Naruto",
+  "emoji": "🍥",
+  "series": "Naruto",
+  "order": 1,
+  "groups": [
+    "Team 7",
+    "Konoha 11",
+    "Sensei & Kage",
+    "Sand & Other Villages",
+    "Uchiha",
+    "Others"
+  ]
+}

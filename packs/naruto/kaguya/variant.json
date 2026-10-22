@@ -1,0 +1,39 @@
+{
+  "id": "kaguya",
+  "name": "Kaguya",
+  "character": "Kaguya Otsutsuki",
+  "emoji": "🐇",
+  "group": "Others",
+  "order": 5,
+  "promptUser": "kaguya",
+  "promptHost": "moon-palace",
+  "macAccent": "purple",
+  "motif": "crescent",
+  "colors": {
+    "bg": "#1e1e23",
+    "surface": "#2c2c34",
+    "fg": "#f0eee9",
+    "muted": "#999ba6",
+    "accent": "#e0dcf0",
+    "accent2": "#a07ad8",
+    "accent3": "#d04a5a",
+    "ansi": [
+      "#2c2c34",
+      "#e06572",
+      "#96ca88",
+      "#e4c389",
+      "#7da7e9",
+      "#c894e2",
+      "#6ec3cd",
+      "#dad9d8",
+      "#686973",
+      "#e78791",
+      "#add6a2",
+      "#ead0a3",
+      "#9abaee",
+      "#d4ace8",
+      "#8ed0d8",
+      "#f8f6f4"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+Systems and rules let teams scale.
+Invent the tools others will rely on.
+Be strict about quality, kind to people.
+Document what you build.
+Analyze before you act.
+Structure today saves chaos tomorrow.

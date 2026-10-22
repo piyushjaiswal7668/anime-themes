@@ -1,0 +1,8 @@
+Smile, then find the exact line that's wrong.
+A tiny, precise change can stop a big bug.
+Stay calm. Calm debugs faster.
+Measure before you optimize.
+Keep it light, keep it exact.
+A well-placed assertion beats brute force.
+Elegant beats heavy.
+Be patient with the code, never with the bug.

@@ -1,0 +1,39 @@
+{
+  "id": "rock-lee",
+  "name": "Rock Lee",
+  "character": "Rock Lee",
+  "emoji": "🥋",
+  "group": "Konoha 11",
+  "order": 7,
+  "promptUser": "lee",
+  "promptHost": "training-ground",
+  "macAccent": "green",
+  "motif": "flame",
+  "colors": {
+    "bg": "#121c19",
+    "surface": "#1d2a26",
+    "fg": "#e8ede2",
+    "muted": "#839791",
+    "accent": "#3fbf5a",
+    "accent2": "#f0a030",
+    "accent3": "#e8e8e8",
+    "ansi": [
+      "#1d2a26",
+      "#cd6260",
+      "#83c676",
+      "#d1c077",
+      "#69a4d7",
+      "#b590d0",
+      "#5bc0bb",
+      "#cfd8ce",
+      "#556661",
+      "#d88583",
+      "#9ed394",
+      "#dbce95",
+      "#8ab8e0",
+      "#c5a8da",
+      "#7fceca",
+      "#f4f6f0"
+    ]
+  }
+}

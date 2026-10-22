@@ -1,0 +1,39 @@
+{
+  "id": "nine-tails",
+  "name": "Naruto",
+  "character": "Naruto Uzumaki",
+  "emoji": "🦊",
+  "group": "Team 7",
+  "order": 1,
+  "promptUser": "naruto",
+  "promptHost": "hidden-leaf",
+  "macAccent": "orange",
+  "motif": "swirl",
+  "colors": {
+    "bg": "#12172b",
+    "surface": "#1b2340",
+    "fg": "#f2e6d3",
+    "muted": "#8a93ad",
+    "accent": "#f47b20",
+    "accent2": "#ffb347",
+    "accent3": "#5b9bff",
+    "ansi": [
+      "#1b2340",
+      "#e5533d",
+      "#8cc265",
+      "#f6c453",
+      "#4f8fe8",
+      "#c678dd",
+      "#4fc1c9",
+      "#d9d2c4",
+      "#4a5578",
+      "#ff6e52",
+      "#a3d97c",
+      "#ffd77a",
+      "#78aaff",
+      "#dd9cf0",
+      "#7ad9e0",
+      "#fff6e8"
+    ]
+  }
+}

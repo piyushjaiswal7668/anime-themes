@@ -1,0 +1,39 @@
+{
+  "id": "obanai",
+  "name": "Obanai",
+  "character": "Obanai Iguro",
+  "emoji": "🪢",
+  "group": "Hashira",
+  "order": 8,
+  "promptUser": "obanai",
+  "promptHost": "serpent-hashira",
+  "macAccent": "blue",
+  "motif": "snake",
+  "colors": {
+    "bg": "#131b1e",
+    "surface": "#1e282d",
+    "fg": "#e9ece6",
+    "muted": "#84949c",
+    "accent": "#4ab0a8",
+    "accent2": "#e0c050",
+    "accent3": "#e8e8e8",
+    "ansi": [
+      "#1e282d",
+      "#ce606a",
+      "#84c480",
+      "#d2be80",
+      "#6ba2e0",
+      "#b68fd9",
+      "#5cbec4",
+      "#d0d6d4",
+      "#56636a",
+      "#d9838b",
+      "#9fd19c",
+      "#dccc9c",
+      "#8cb6e7",
+      "#c6a8e1",
+      "#80ccd1",
+      "#f4f6f2"
+    ]
+  }
+}

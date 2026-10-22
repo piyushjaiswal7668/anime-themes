@@ -1,0 +1,8 @@
+See the whole system before you touch a single line.
+Quiet code is strong code.
+The simplest fix is often the one nobody looked at.
+Know your limits, then plan around them.
+Read the logs. The truth is usually already there.
+A good refactor is invisible to everyone but you.
+Patience finds the race condition.
+Carry the hard task so your team doesn't have to.

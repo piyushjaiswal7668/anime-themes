@@ -1,0 +1,39 @@
+{
+  "id": "kiba",
+  "name": "Kiba",
+  "character": "Kiba Inuzuka",
+  "emoji": "🐺",
+  "group": "Konoha 11",
+  "order": 5,
+  "promptUser": "kiba",
+  "promptHost": "dog-den",
+  "macAccent": "red",
+  "motif": "paw",
+  "colors": {
+    "bg": "#1c1417",
+    "surface": "#2a1f23",
+    "fg": "#efe6e0",
+    "muted": "#96858d",
+    "accent": "#c9433a",
+    "accent2": "#d9cbb8",
+    "accent3": "#8a7560",
+    "ansi": [
+      "#2a1f23",
+      "#dd535c",
+      "#93b772",
+      "#e2b173",
+      "#7a95d3",
+      "#c581cc",
+      "#6cb1b7",
+      "#d9cecb",
+      "#65575d",
+      "#e47980",
+      "#abc791",
+      "#e8c292",
+      "#97acdd",
+      "#d29dd7",
+      "#8cc2c7",
+      "#f7f2f0"
+    ]
+  }
+}

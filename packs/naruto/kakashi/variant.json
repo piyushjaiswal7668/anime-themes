@@ -1,0 +1,39 @@
+{
+  "id": "kakashi",
+  "name": "Kakashi",
+  "character": "Kakashi Hatake",
+  "emoji": "🐕",
+  "group": "Team 7",
+  "order": 4,
+  "promptUser": "kakashi",
+  "promptHost": "konoha-gate",
+  "macAccent": "blue",
+  "motif": "eye",
+  "colors": {
+    "bg": "#1c1e22",
+    "surface": "#2a2b32",
+    "fg": "#efeee8",
+    "muted": "#9699a3",
+    "accent": "#c9d1db",
+    "accent2": "#3f6fb5",
+    "accent3": "#d43f3f",
+    "ansi": [
+      "#2a2b32",
+      "#dd6470",
+      "#93c886",
+      "#e2c287",
+      "#7aa6e6",
+      "#c593df",
+      "#6cc2ca",
+      "#d9d9d7",
+      "#656870",
+      "#e4868f",
+      "#abd4a1",
+      "#e8cfa1",
+      "#97baec",
+      "#d2abe6",
+      "#8ccfd6",
+      "#f7f6f4"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "mei",
+  "name": "Mei",
+  "character": "Mei Terumi",
+  "emoji": "🌋",
+  "group": "Sand & Other Villages",
+  "order": 6,
+  "promptUser": "mei",
+  "promptHost": "kirigakure",
+  "macAccent": "orange",
+  "motif": "burst",
+  "colors": {
+    "bg": "#1d1617",
+    "surface": "#2b2223",
+    "fg": "#f0e8e0",
+    "muted": "#988a8d",
+    "accent": "#d9643a",
+    "accent2": "#3a6ad0",
+    "accent3": "#9ad0a0",
+    "ansi": [
+      "#2b2223",
+      "#df575c",
+      "#95bb72",
+      "#e4b573",
+      "#7c99d3",
+      "#c785cc",
+      "#6eb5b7",
+      "#dad0cb",
+      "#675b5d",
+      "#e67c80",
+      "#acca91",
+      "#eac592",
+      "#99afdd",
+      "#d3a0d7",
+      "#8ec5c7",
+      "#f8f4f0"
+    ]
+  }
+}

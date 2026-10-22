@@ -1,0 +1,8 @@
+Breathe. Then read the stack trace from the top.
+Be kind in code review. Be relentless with bugs.
+Keep going even when the build is red.
+Every failure taught you a form you didn't know yet.
+Steady breathing, steady commits.
+Protect your teammates' time: write clear commit messages.
+Train a little every day. It adds up.
+You can be tired and still be moving forward.

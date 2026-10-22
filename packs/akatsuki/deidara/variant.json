@@ -1,0 +1,38 @@
+{
+  "id": "deidara",
+  "name": "Deidara",
+  "character": "Deidara",
+  "emoji": "💥",
+  "order": 5,
+  "promptUser": "deidara",
+  "promptHost": "iwagakure",
+  "macAccent": "yellow",
+  "motif": "burst",
+  "colors": {
+    "bg": "#16130e",
+    "surface": "#221d14",
+    "fg": "#f6eedc",
+    "muted": "#a29579",
+    "accent": "#f0c24a",
+    "accent2": "#ef7a2f",
+    "accent3": "#78b6d8",
+    "ansi": [
+      "#221d14",
+      "#e2625e",
+      "#98c674",
+      "#e6c075",
+      "#7ea4d5",
+      "#ca91ce",
+      "#70c0b9",
+      "#e1d8c3",
+      "#685f4c",
+      "#e88581",
+      "#afd393",
+      "#ecce93",
+      "#9ab8de",
+      "#d6a9d9",
+      "#8fcec8",
+      "#faf6ee"
+    ]
+  }
+}

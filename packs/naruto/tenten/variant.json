@@ -1,0 +1,39 @@
+{
+  "id": "tenten",
+  "name": "Tenten",
+  "character": "Tenten",
+  "emoji": "🏹",
+  "group": "Konoha 11",
+  "order": 9,
+  "promptUser": "tenten",
+  "promptHost": "weapon-shop",
+  "macAccent": "red",
+  "motif": "kunai",
+  "colors": {
+    "bg": "#1e151a",
+    "surface": "#2c2028",
+    "fg": "#f0e7e3",
+    "muted": "#998793",
+    "accent": "#e0526b",
+    "accent2": "#c9c9d1",
+    "accent3": "#6b8fcf",
+    "ansi": [
+      "#2c2028",
+      "#e05562",
+      "#96b978",
+      "#e4b379",
+      "#7d97d9",
+      "#c883d2",
+      "#6eb3bd",
+      "#dacfcf",
+      "#685963",
+      "#e77a85",
+      "#adc896",
+      "#eac496",
+      "#9aaee1",
+      "#d49edc",
+      "#8ec4cc",
+      "#f8f3f1"
+    ]
+  }
+}
